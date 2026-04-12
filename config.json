@@ -12,14 +12,14 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "مـيكائـيـل",
+  "nickNameBot": "𝑻𝑯𝑬 𝑮𝑶𝑫",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61583835186508",
+    "100004016269183",
     "61583739652803",
     "61587114874994"
   ],
